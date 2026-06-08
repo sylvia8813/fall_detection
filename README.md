@@ -1,5 +1,10 @@
 # Fall Detection based on YOLOv8 Pose — Seeed Grove Vision AI Module V2
 
+| 學號 | 姓名 |
+|------|------|
+| M11407W14 | 談宇容 |
+
+
 > **Version history**: The full development history of this project is maintained at
 > [https://github.com/sylvia8813/edgeAi_pose_estimate](https://github.com/sylvia8813/edgeAi_pose_estimate).
 > This repository contains only the relevant modules extracted from that project.
