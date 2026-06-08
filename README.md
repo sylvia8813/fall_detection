@@ -4,6 +4,10 @@
 |------|------|
 | M11407W14 | 談宇容 |
 
+## Presentation
+
+[📊 查看簡報](https://docs.google.com/presentation/d/1INf_wkBAMib9606ZQcanW68X60Wj5mld/edit?usp=drive_link&ouid=105147767076175887575&rtpof=true&sd=true)
+
 ## Demo
 
 [![Demo Video](https://img.youtube.com/vi/SXb-i8hfSig/0.jpg)](https://www.youtube.com/watch?v=SXb-i8hfSig&t=1s)
