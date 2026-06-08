@@ -6,7 +6,7 @@
 
 ## Demo
 
-[![Demo Video](https://img.youtube.com/vi/37k5SPIG8zc/0.jpg)](https://youtu.be/37k5SPIG8zc?si=rlBwXKY3YoM1UpqQ)
+[![Demo Video](https://img.youtube.com/vi/SXb-i8hfSig/0.jpg)](https://www.youtube.com/watch?v=SXb-i8hfSig&t=1s)
 
 
 > **Version history**: The full development history of this project is maintained at
