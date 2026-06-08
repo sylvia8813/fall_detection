@@ -4,6 +4,10 @@
 |------|------|
 | M11407W14 | 談宇容 |
 
+## Demo
+
+[![Demo Video](https://img.youtube.com/vi/37k5SPIG8zc/0.jpg)](https://youtu.be/37k5SPIG8zc?si=rlBwXKY3YoM1UpqQ)
+
 
 > **Version history**: The full development history of this project is maintained at
 > [https://github.com/sylvia8813/edgeAi_pose_estimate](https://github.com/sylvia8813/edgeAi_pose_estimate).
