@@ -1,5 +1,12 @@
-# Himax examples for Seeed Grove Vision AI Module V2
-This is a repository which step by step teaches you how to build your own examples and run on Seeed Grove Vision AI Module V2.
+# Fall Detection based on YOLOv8 Pose — Seeed Grove Vision AI Module V2
+
+> **Version history**: The full development history of this project is maintained at
+> [https://github.com/sylvia8813/edgeAi_pose_estimate](https://github.com/sylvia8813/edgeAi_pose_estimate).
+> This repository contains only the relevant modules extracted from that project.
+
+> **Upstream**: This project is based on [HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2](https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2).
+
+This repository implements fall detection on the Seeed Grove Vision AI Module V2 using YOLOv8 pose estimation, running on the Himax WiseEye2 (WE2) chip.
 Finally, teach you how to restore to the original factory settings and run [SenseCraft AI](https://wiki.seeedstudio.com/grove_vision_ai_v2_software_support/#-no-code-getting-started-with-sensecraft-ai-) from [Seeed Studio](https://wiki.seeedstudio.com/grove_vision_ai_v2/).
 ## Outline
 - How to build the firmware?
