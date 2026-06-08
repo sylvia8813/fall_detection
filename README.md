@@ -6,7 +6,7 @@
 
 ## Presentation
 
-[📊 查看簡報](https://docs.google.com/presentation/d/1INf_wkBAMib9606ZQcanW68X60Wj5mld/edit?usp=drive_link&ouid=105147767076175887575&rtpof=true&sd=true)
+[📊 查看簡報](https://docs.google.com/presentation/d/1INf_wkBAMib9606ZQcanW68X60Wj5mld/edit?usp=sharing&ouid=105147767076175887575&rtpof=true&sd=true)
 
 ## Demo
 
