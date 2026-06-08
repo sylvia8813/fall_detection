@@ -1,0 +1,89 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Various build files
+EPII_CM55M_APP_S/obj_*/**
+we2_image_gen_local/output_*/**
+we2_image_gen_local/Images*.txt
+*.elf
+*.map
+*.img
+
+.vscode/
+
+# ---------- 不需要上傳的 Himax 其他範例 ----------
+# model_zoo - 只保留 tflm_yolov8_pose
+model_zoo/kws_pdm_record/
+model_zoo/tflm_fd_fm/
+model_zoo/tflm_mb_cls/
+model_zoo/tflm_yolo11_od/
+model_zoo/tflm_yolov8_gender_cls/
+model_zoo/tflm_yolov8_od/
+model_zoo/torch_mb_cls/
+
+# scenario_app - 只保留 tflm_yolov8_pose
+EPII_CM55M_APP_S/app/scenario_app/allon_jpeg_encode/
+EPII_CM55M_APP_S/app/scenario_app/allon_sensor_tflm/
+EPII_CM55M_APP_S/app/scenario_app/allon_sensor_tflm_cmsis_nn/
+EPII_CM55M_APP_S/app/scenario_app/allon_sensor_tflm_fatfs/
+EPII_CM55M_APP_S/app/scenario_app/allon_sensor_tflm_freertos/
+EPII_CM55M_APP_S/app/scenario_app/edge_impulse_firmware/
+EPII_CM55M_APP_S/app/scenario_app/ei_standalone_inferencing/
+EPII_CM55M_APP_S/app/scenario_app/ei_standalone_inferencing_camera/
+EPII_CM55M_APP_S/app/scenario_app/event_handler/
+EPII_CM55M_APP_S/app/scenario_app/fatfs_mmc_spi/
+EPII_CM55M_APP_S/app/scenario_app/hello_world_cmsis_cv/
+EPII_CM55M_APP_S/app/scenario_app/hello_world_cmsis_dsp/
+EPII_CM55M_APP_S/app/scenario_app/hello_world_freertos_tz_s_only/
+EPII_CM55M_APP_S/app/scenario_app/imu_read/
+EPII_CM55M_APP_S/app/scenario_app/kws_pdm_record/
+EPII_CM55M_APP_S/app/scenario_app/pdm_record/
+EPII_CM55M_APP_S/app/scenario_app/tflm_fd_fm/
+EPII_CM55M_APP_S/app/scenario_app/tflm_mb_cls/
+EPII_CM55M_APP_S/app/scenario_app/tflm_peoplenet/
+EPII_CM55M_APP_S/app/scenario_app/tflm_yolo11_od/
+EPII_CM55M_APP_S/app/scenario_app/tflm_yolov8_gender_cls/
+EPII_CM55M_APP_S/app/scenario_app/tflm_yolov8_od/
+EPII_CM55M_APP_S/app/scenario_app/torch_mb_cls/
+
+# Python 虛擬環境
+venv/
+
+# SWD 除錯工具（不需要）
+swd_debugging/
+# ---------- log_visualizer (added by tanyu) ----------
+log_visualizer/live_preview.py
+log_visualizer/output/
+log_visualizer/output[0-9]/
+log_visualizer/output_*/
+log_visualizer/*.log
+log_visualizer/__pycache__/
