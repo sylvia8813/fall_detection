@@ -10,7 +10,7 @@
 
 ## Demo
 
-[![Demo Video](https://img.youtube.com/vi/SXb-i8hfSig/0.jpg)](https://www.youtube.com/watch?v=SXb-i8hfSig&t=1s)
+[![Demo Video](https://img.youtube.com/vi/Ep11dypr_o8/0.jpg)](https://youtu.be/Ep11dypr_o8)
 
 
 > **Version history**: The full development history of this project is maintained at
